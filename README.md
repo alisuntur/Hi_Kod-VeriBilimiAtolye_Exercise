@@ -6,7 +6,7 @@ Bu repo, Hİ-KOD Veri Bilimi Atölyesi dersinin haftalık ödevlerini içermekte
 ## Hafta 1 - Veri Bilimi -Python ve Veri Yapılarına Giriş
 
 - [Ödev 1:](Hi-Kod_Exercise1.ipynb)
-- Ödev 2:](Hi-Kod_Exercise2.ipynb)
+- [Ödev 2:](Hi-Kod_Exercise2.ipynb)
 
 ## Hafta 2 -  
 
