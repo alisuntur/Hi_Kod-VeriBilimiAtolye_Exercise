@@ -10,7 +10,7 @@ Bu repo, Hİ-KOD Veri Bilimi Atölyesi dersinin haftalık ödevlerini içermekte
 
 ## Hafta 2 -  Fonksiyon Ve Sınıf Yapıları
 - [Ödev 3:](Hi-Kod_Exercise3.ipynb)
- 
+- [Ödev 4:](Hi-Kod_Exercise4.ipynb)
 
 ## Hafta 3 - 
 
