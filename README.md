@@ -12,8 +12,8 @@ Bu repo, Hİ-KOD Veri Bilimi Atölyesi dersinin haftalık ödevlerini içermekte
 - [Ödev 3:](Hi-Kod_Exercise3.ipynb)
 - [Ödev 4:](Hi-Kod_Exercise4.ipynb)
 
-## Hafta 3 - 
-
- 
+## Hafta 3 - Listeler,Sözlükler,Tuple
+- [Ödev 5:](Hi-Kod_Exercise5.ipynb)
+- [Ödev 6:]()
 
 ...
