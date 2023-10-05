@@ -16,4 +16,7 @@ Bu repo, Hİ-KOD Veri Bilimi Atölyesi dersinin haftalık ödevlerini içermekte
 - [Ödev 5:](Hi-Kod_Exercise5.ipynb)
 - [Ödev 6:](Hi-Kod_Exercise6.ipynb)
 
+## Hafta 4 - Pandas Ve Veri Görselleştirme
+- [Ödev 7:](Hi-Kod_Exercise7.ipynb)
+- [Ödev 8:](Hi-Kod_Exercise8.ipynb)
 ...
